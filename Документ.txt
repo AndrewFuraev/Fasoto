@@ -1,2 +1,3 @@
 Hy! My name Andrei. Haw a you? Where are your from? I am from Rusha.
 And i'm learning QA
+i am on iOS
