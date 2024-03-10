@@ -1,3 +1,4 @@
 b = 'as you are'
 a = 'Come'
-print = a + b
+print (a + b)
+print (b+a)
