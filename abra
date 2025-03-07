@@ -1,4 +1,5 @@
 b = 'as you are'
 a = 'Come'
 print (a + b)
-print (b+a)
+print (b+a) 
+c = 'men who sold the world'
